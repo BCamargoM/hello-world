@@ -1,3 +1,3 @@
-# hello-world-v1
-This is my first proyect in gitHub
-In this time, I learn to used GitHub BCM
+# hello-world
+This is my first project in gitHub
+In this time, I will learn to used GitHub BCM
